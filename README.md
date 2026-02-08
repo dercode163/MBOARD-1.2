@@ -1,10 +1,15 @@
 # MBOARD-1.2
 # MBOARD
+<img width="1242" height="794" alt="Screenshot 2026-02-08 200947" src="https://github.com/user-attachments/assets/149c4716-a095-4265-8dec-01932b9ac356" />
+
 
 MBOARD is a compact 9-key macropad powered by an RP2040 microcontroller perfect for custom shortcuts,creative input controls.
 
+# schematic
 <img width="980" height="594" alt="Screenshot 2026-02-05 084551" src="https://github.com/user-attachments/assets/736570a1-f716-4a13-b5a9-48632cdc784f" />
+# CASE
 <img width="1260" height="774" alt="Screenshot 2026-02-04 225924" src="https://github.com/user-attachments/assets/87052f01-3476-44ed-8ffc-103fb22224b9" />
+# PCB
 <img width="882" height="653" alt="Screenshot 2026-02-06 231517" src="https://github.com/user-attachments/assets/4f000669-6bed-47d8-bc8c-d0c8df367855" />
 
 #  Features
